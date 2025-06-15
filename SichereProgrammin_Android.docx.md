@@ -2,7 +2,18 @@
 
 Applikation Android  Sicheres Design/Sichere Kodierung
 
+Entwicklung eines sicheren Android-Prototyps mit Biometrie, TLS und SQL-Injection-Schutz:
+
 Im Rahmen unserer Studienarbeit haben wir uns für die Implementierung einer Android-Applikation entschieden. Das Ziel unserer Arbeit ist es, zu lernen, wie man eine entsprechende Ansicht einer Android-Anwendung implementiert, und auch Daten in einer Datenbank (Hier Firebase) speichern kann.
+
+## Anforerung: 
+* Entwicklung einer sicheren Android-Applikation mit Fokus auf Secure Design und Secure
+* Coding. Implementierte Sicherheitsmechanismen wie die Nutzung des Android Keystore
+* für sichere Schlüsselverwaltung und SSL/TLS für die verschlüsselte Kommunikation;
+* integrierte Best Practices für sicheren Code, einschließlich der sicheren Speicherung von
+* Nutzerdaten und Schutz vor SQL-Injektionen; führte Code-Reviews und Sicherheits-Tests
+* durch, um Schwachstellen frühzeitig zu identifizieren und zu beheben
+
 
 **1-Login**
 
